@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="iterator_jsonDemo2"
+  id="myeclipse.1434612674594"
+  context-root="/iterator_jsonDemo2"
+  j2ee-spec="5.0"
+  archive="iterator_jsonDemo2.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
